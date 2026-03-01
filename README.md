@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Model – Your First MLOps Project (FastAPI + Docker + K8s)
+# MLOps-Based Diabetes Prediction System (FastAPI, Docker, Kubernetes)
 
 > 🎥 YouTube video for the project: **"Build Your First MLOps Project"**
 
